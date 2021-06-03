@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great idol of the masse overthrown in 24 arguments wherein the doctrine of transubstantiation is fully refuted in a sermon preached upon Luke 22 the latter part of the 19th verse / by a Protestant.</title>
+            <author>Protestant.</author>
+         </titleStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41902</idno><idno type="EEBO-CITATION">12248971</idno>
+  <idno type="VID">57054</idno>
+  <idno type="EEBO-PROQUEST">2240949552</idno>
+  
+            <idno type="STC">Wing G1706</idno>
+            <idno type="STC">ESTC R31731</idno>
+            <idno type="OCLC">12248971</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A41902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57054)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1504:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great idol of the masse overthrown in 24 arguments wherein the doctrine of transubstantiation is fully refuted in a sermon preached upon Luke 22 the latter part of the 19th verse / by a Protestant.</title>
+                  <author>Protestant.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Enoch Proffer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print showthrough with slight loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Transubstantiation --  Controversial literature.</term>
+               <term type="topical_term">Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57054:1"/>
+            <p>THE GREAT IDOL OF THE MASSE Overthrown in 24 <hi>Arguments:</hi> WHEREIN THE DOCTRINE OF <hi>Transubstantiation</hi> Is fully REFUTED; IN A SERMON Preached upon <hi>Luke</hi> 22. the latter Part of the 19th. <hi>Verse.</hi>
+            </p>
+            <p>
+               <hi>By a Protestant.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Enoch Prosser</hi> at the <hi>Rose</hi> and <hi>Crown</hi> in <hi>Sweetings-Rents</hi> at the East End of the <hi>Royal Exchange,</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:57054:2"/>
+            <pb n="1" facs="tcp:57054:2"/>
+            <head>THE IDOL <hi>of the MASS</hi> Overthrown: OR THE DOCTRINE OF <hi>Transubstantiation</hi> REFUTED; In a Sermon Preached upon <hi>Luke</hi> 22. the Latter part of the 19th. <hi>Verse.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <hi>This is my Body.</hi>
+               </q>
+            </epigraph>
+            <p>VVE have told you that there are Four Texts that speak to this Matter, <hi>viz.</hi> Three Texts more besides this that I have read unto you; as <hi>Mat.</hi> 26.26. <hi>Mark</hi> 14.22. 1 <hi>Cor.</hi> 11.24. and they speak all the same Language <hi>[This is my Body.]</hi>
+            </p>
+            <p>For the Opening of this great Subject, we have proposed these four things to you:</p>
+            <list>
+               <pb n="2" facs="tcp:57054:3"/>
+               <item>1. To give you an Account of the Opinions that are in the World about it.</item>
+               <item>2. To shew which of these Opinions is right, which wrong.</item>
+               <item>3. What is the Design of the Institution.</item>
+               <item>4. How the Design may be Answered.</item>
+            </list>
+            <p>As to the First of these, we have shewed you Three Opi<g ref="char:EOLhyphen"/>nions in the World about it.</p>
+            <list>
+               <item>1. That of the <hi>Roman Catholicks,</hi> who do believe <hi>Tran<g ref="char:EOLhyphen"/>substantiation.</hi>
+               </item>
+               <item>2. That of the <hi>Lutherans,</hi> who believe <hi>Consubstantiation.</hi>
+               </item>
+               <item>3. That of the best <hi>Protestants,</hi> who believe, That this Supper of our Lord was but an Elementary Sign of an Holy Thing.</item>
+            </list>
+            <p>
+               <hi>Transubstantiation</hi> and <hi>Consubstantiation</hi> we told you are both <hi>Latin</hi> Words; which though not exactly alike in signifi<g ref="char:EOLhyphen"/>cation.</p>
+            <p>The one saith, The Bread is turned or converted into the Substance of Christ's Real Body after Consecration.</p>
+            <p>The other, that 'tis with it, in it, or about it.</p>
+            <p>We make a third Party in respect of the Holy Supper of our Lord; who believe 'tis not his Real Body, nor is it with it, in it, nor about it, nor in any other Thing or Place, save only in Heaven at the Father's Right Hand.</p>
+            <p>We have given you some Reasors against both of these O<g ref="char:EOLhyphen"/>pinions, and handled the Objection arising from the Letter of the Text; which we shall briefly repeat, and forthwith pro<g ref="char:EOLhyphen"/>ceed.</p>
+            <p>
+               <hi>Arg.</hi> 1. If the <hi>Consecrated Bread</hi> be the <hi>Real Body</hi> of Christ, then is the <hi>Real Body</hi> of Christ a dead Substance, wholly de<g ref="char:EOLhyphen"/>void of Life and Sense, for that we do evidently see the Bread to be; it doth neither move nor stir before us.</p>
+            <p>But the <hi>Real Body</hi> of Christ is not a dead, but a living Sub<g ref="char:EOLhyphen"/>stance, and continues alwayes such; therefore the <hi>Consecrated Bread</hi> is not the <hi>Real Body</hi> of Christ. To prove the <hi>Minor,</hi> take <hi>Rom.</hi> 6.9. <hi>Knowing that Christ being raised from the dead, dieth
+<pb n="3" facs="tcp:57054:3"/>no more; Death hath no more Dominion over him,</hi> &amp;c. Rev. 1.18 <hi>I am he that was dead, and behold I am alive for overmore.</hi> Luke 20.35, 36. <hi>But he that shall obtain that World and the Resurre<g ref="char:EOLhyphen"/>ction from the dead, doth not</hi> (mark) <hi>neither can he die,</hi> &amp;c.</p>
+            <p>
+               <hi>Arg.</hi> 2. If the Consecrated Bread be the Real Body of Christ, then Christ hath (sometimes) ten thousand Bodies at one time; or so many as there are Priests to Consecrate, or distinct Con<g ref="char:EOLhyphen"/>gregations that do Celebrate the Holy Supper.</p>
+            <p>But Christ never hath so many distinct substantial. Bodies at once; Therefore the Consecrated Bread cannot be the Real Body of Christ, 1 <hi>Cor.</hi> 1.13. <hi>Christ is not divided.</hi> Eph. 4.4. <hi>But one Body, as one Lord, one Hope, one Baptism.</hi>
+            </p>
+            <p>
+               <hi>Arg.</hi> 3. If Christ be divided into so many as ten thousand Real Bodies, then there must be so many Lord Christs, and Christ-Mediators.</p>
+            <p>But there is not so many Lord Christs, and Christ-Mediators. Therefore the Consecrated Bread cannot be the Real Body of Christ; 1 <hi>Cor.</hi> 8.5. <hi>Though there be Gods many, and Lords ma<g ref="char:EOLhyphen"/>ny, that are so call'd</hi> (or accounted) <hi>yet to us there is but one God, and one Lord Jesus Christ.</hi> 1 Tim. 2.5. <hi>There is one God, and one Mediator</hi> (not many) <hi>between God and Man; the Man</hi> (not the Men) <hi>Christ Jesus.</hi>
+            </p>
+            <p>
+               <hi>Arg.</hi> 4. If the Consecrated Bread be really the Holy Body of Christ, then the Holy Body of Christ may be eaten by Rats and Mice, and turn to Corruption. This is evident to common Sense, and universal Experience, where Proof or Trial is made of it.</p>
+            <p>But God will not suffer <hi>his holy One</hi> to turn to <hi>Corruption,</hi> Acts 2.27. Therefore the Consecrated Bread is not, cannot be the Real and Holy Body of Christ.</p>
+            <p>
+               <hi>Arg.</hi> 6. If the Consecrated Bread hath not the real Nature and Property of Flesh, or a real Substantial Body; Then it can be no such thing as the Real Flesh and Body of Christ (because the Nature and Property do necessarily constitute and distin<g ref="char:EOLhyphen"/>guish that <hi>Species</hi> from other kinds of things) But it hath nei<g ref="char:EOLhyphen"/>ther the Nature or Property of Real Flesh or a Substantial Bo<g ref="char:EOLhyphen"/>dy: Therefore it cannot be the Real Body of Christ.</p>
+            <p n="1">1. It hath no Animal Spirits. 2. No Tast nor Feeling like Flesh.</p>
+            <p n="3">
+               <pb n="4" facs="tcp:57054:4"/> 3. Not the Complection of Flesh. These things are evi<g ref="char:EOLhyphen"/>dent to all Mankind that ever did or shall try the Case.</p>
+            <p>
+               <hi>Arg.</hi> 6. If the Consecrated Bread hath the Nature and Properties of Flesh, then are the Senses of all the World de<g ref="char:EOLhyphen"/>ceived in so plain and evident a Matter, that nothing can be more plain; and if deceived here, our Senses are not to be trusted in any other thing; no not when they are most sure that they see Father, or Mother, or Wife, or Children: nor can we be sure that these Words, <hi>This is my Body,</hi> are written in <hi>Mat.</hi> 26. <hi>Mark</hi> 14. <hi>Luke</hi> 22. 1 <hi>Cor.</hi> 11. For may not these be some other Words, as well as the Bread that we see to be so, is some other Substance? What if we should tell our Friends of <hi>Rome,</hi> these Words, <hi>This is my Body,</hi> is not in this Chapter, and grow confident upon it, and tell them, The Words are, <hi>This is not my Body,</hi> 'Tis the Bricks that were laid to build <hi>Babel,</hi> 'tis the Gates of <hi>Solomon</hi>'s Porch; this is the <hi>Shew-Bread</hi> that <hi>Abimelech</hi> gave to <hi>David;</hi> the <hi>Bottles</hi> that <hi>Abigail</hi> took from <hi>Nabal?</hi> If they tell us, we are strangely deceived, and the Senses of all that can read, will give it a<g ref="char:EOLhyphen"/>gainst us; may not tell them, when they say, <hi>This is the Real Body;</hi> that they are strangely deceived, and that the Senses of all that can see, will give it against them; and that there is no more reason for them to burn us, because we cannot see the Bread to be Christ's Body, than there is for us to kill them, because they cannot see that it is the Gates of <hi>Solomon</hi>'s Porch that is there written?</p>
+            <p>We conclude, That the Senses of all the World cannot be deceived in so evident and plain a Matter; therefore the Consecrated Bread hath not the Nature and Property of Flesh, <hi>i. e.</hi> is not Christ's Real Body.</p>
+            <p>
+               <hi>Arg.</hi> 7. If the Consecrated Bread be really the Body and Flesh of Christ, then we do him a great deal of Injury to tear him to pieces so often, and eat him.</p>
+            <p>'Tis doubtless a <hi>Crucifying the Son of God afresh,</hi> or to all intents equivalent to it; and then the doing of it deserves the Reward assign'd to that Work.</p>
+            <pb n="5" facs="tcp:57054:4"/>
+            <p> And what is that? Why an unpardonable Guilt, and ever<g ref="char:EOLhyphen"/>lasting Burning, <hi>Heb.</hi> 6.6, 8. Not to be avoided by Repent<g ref="char:EOLhyphen"/>ance.</p>
+            <p>
+               <hi>Arg.</hi> 8. As the Consecrated Bread is not the Real Body of Christ, neither is it indeed the Bread of Life that we are to seek after, and that the Scripture gives us an Account of.</p>
+            <p n="1">1. Because it did not come down from Heaven.</p>
+            <p n="2">2. Because it cannot give eternal Life to the Receiver, which the Bread of God is said to do.</p>
+            <p>The Farmer sow'd it, the Tasker thresh'd it, the Miller ground it, the Baker by Art made it into Bread. This is God's own Argument against <hi>Idols,</hi> Isa. 44.12, to 18. Therefore it came not from Heaven.</p>
+            <p>It cannot give Eternal Life to the Receiver, because it self is but a Temporal thing: If a Cause that is but Temporal, can bring forth and deliver it self of an Effect that is Eter<g ref="char:EOLhyphen"/>nal, then may the Effect infinitely transcend the Cause imme<g ref="char:EOLhyphen"/>diately producing; but yet it never was, nor hereafter ever will be, that a Mother should bring forth a Child ten thousand times greater than her self.</p>
+            <p>
+               <hi>Quest.</hi> But if it be neither the Real Body and Flesh of Christ, nor the Bread of Life spoken of, what is it.</p>
+            <p>
+               <hi>Answ.</hi> To this Question we Answer two things.</p>
+            <list>
+               <item>1. In it self, it is no more nor better thin Bread.</item>
+               <item>2. In respect of Institution, it is the Sign or Representation of an holy thing, <hi>viz.</hi> The <hi>Body of Christ broken upon the Cross for us;</hi> More than this it is not, nor may be thought to be, without Superstition; not God, not Christ, not the Holy Ghost.</item>
+            </list>
+            <p>
+               <hi>Object.</hi> Why then is it said so plain and so often, <hi>This is my Body?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> It hath been the manner of the Lord to speak in a Figure; to call one thing by the Name of another; and that frequently among the <hi>Hebrews;</hi> as appears in these Exam<g ref="char:EOLhyphen"/>ples, <hi>Exod.</hi> 12. The Sign of the <hi>Passover</hi> is call'd the Thing it self. <hi>Isa,</hi> 37.11. The <hi>Dry Bones</hi> are call'd the <hi>whole House of Israel.</hi> In the Thret <hi>Evangelists</hi> the like is done of the <hi>Pass<g ref="char:EOLhyphen"/>over,
+<pb n="6" facs="tcp:57054:5"/>Mat.</hi> 26.26. <hi>Mark</hi> 14. <hi>Luke</hi> 22. So here our Saviour spake as to the <hi>Hebrews;</hi> where the Symbol of his Body is cal<g ref="char:EOLhyphen"/>led the Thing it self. And that the Words. <hi>This is my Body,</hi> are to be taken in the Sense we have given, and not Literally; We farther offer,</p>
+            <p>
+               <hi>Arg.</hi> 9. Where the Conclusion of a Point from the Letter of the Text doth imply great and gross-Absurdities, there the Opinion can never be true.</p>
+            <p>To conclude a Real Presence in the Sacrament, doth imply great and gross Absurdities: Therefore it cannot be true:</p>
+            <p>As, 1. That the <hi>Body</hi> of Christ is a dead Substance; against <hi>Luke</hi> 20.35, 36, <hi>Rom.</hi> 6.9. <hi>Rev.</hi> 1.18.</p>
+            <p n="2">2. That Christ hath Ten thousand <hi>Real Bodies</hi> at one time.</p>
+            <p n="3">3. That there are so many Lord Christs, and Christ-Media<g ref="char:EOLhyphen"/>tors; against 1 <hi>Cor.</hi> 1.13. <hi>Eph.</hi> 4.4. 1 <hi>Cor.</hi> 8.5, 6. 1 <hi>Tim.</hi> 2.5.</p>
+            <p n="4">4. That the Holy Body of Christ may mould, and be eaten by Rats and Mice, may putrisie, stink and turn to Corruption; against <hi>Acts</hi> 2.27.</p>
+            <p n="5">5. That it is Flesh, which hath neither the Nature nor Pro<g ref="char:EOLhyphen"/>perty of it; either Animal Spirits, Taste, or Complection.</p>
+            <p n="6">6. That Christ may be bitten, torn to pieces, and crucified afresh by the best of his Friends; against <hi>Heb.</hi> 6.6.</p>
+            <p n="7">7. That it is the <hi>Bread of Heaven;</hi> when there is nothing more evident than the contrary.</p>
+            <p n="8">8. That it can give <hi>Eternal Life</hi> to the Receiver, when there is no such Virtue existing in it.</p>
+            <p>To which we shall add a few more Arguments before we come to the two last things, <hi>viz.</hi> The <hi>Design of the Lords Supper,</hi> and how to Answer it.</p>
+            <p>
+               <hi>Arg.</hi> 10. If the <hi>Consecrated Bread</hi> hath neither the shape nor form, neither the proportions or dimensions, the parts, pow<g ref="char:EOLhyphen"/>ers, or operations of a humane Body, then it cannot be the Real Body of Christ.</p>
+            <p>But the <hi>Consecrated Bread</hi> hath neither the shape or form, the proportions or dimensions, the parts, powers or opera<g ref="char:EOLhyphen"/>tions of a humane Body: Therefore it cannot be the <hi>Real Body</hi> of Jesus Christ.</p>
+            <p n="1">
+               <pb n="7" facs="tcp:57054:5"/> 1. It is neither like a Man, a Woman, or a Child, which is the shape and form of a humane body.</p>
+            <p n="2">2. It hath not the proportions or dimensions of a mans Body, either for height, length, or manner of Figure. If it hath, let them tell us the Size, and shew the Figure, that we may compare it.</p>
+            <p n="3">3. Neither the Parts, powers or operations of a humane body.</p>
+            <p n="1">1. Neither Head, nor Hair, neither Eyes nor Nose, Neck, Breast, nor Shoulders; neither Hands nor Fingers, Belly, nor Thighs, Legs nor Feet, neither Toes nor Nails; these are parts of a humane body; and if there be any such in the Bread, after Consecrated, let us enquire whe<g ref="char:EOLhyphen"/>ther they be plac'd in due manner and form, in the same method and order with other men, that we may know where to look for the Eyes and the Nose, for the Mouth and the Chin, which are parts common to all humane bodies: Further, if this Bread becomes a real humane body, it hath bones, and sinews, veins, nerves and arteries, joynts and marrow; never any humane body was totally without these. And touching the Powers and Operations of a humane body;</p>
+            <p n="1">1. It must have a humane Life, else it can neither move nor grow; which are Properties of humane bodies.</p>
+            <p n="2">2. It must have the Sense of a humane body; for Sense is proper and inseparable to all such; it can see or hear, it can taste or feel, if not smell and speak.</p>
+            <p n="3">3. If it hath the Sense of a human body, then the Passions too; for they always attend the Senses: If a body can see and hear, can taste and feel, it can be glad or griev'd; it can be angry or pleas'd; and then 'tis a wonder it doth not sometimes sing and rejoyce, grieve and mourn, strug<g ref="char:EOLhyphen"/>gle and strive to get out of the hands of those that go about to abuse it, and tear it in pieces, and out of the Mouths of those that bite and hurt it.</p>
+            <p n="4">4. It must have some kind of Knowledge; for this is common to all hu<g ref="char:EOLhyphen"/>mane bodies and sensible beings: But that this <hi>Consecrated Bread</hi> hath neither Sense nor Knowledge, is evident; because it cries not when vi<g ref="char:EOLhyphen"/>olent hands are laid upon it; nor feels, when cruelly bitten and torn in pieces.</p>
+            <p>
+               <hi>Arg.</hi> 11. If this <hi>Consecrated Bread</hi> be the <hi>Real Body</hi> of Christ, then they must needs be his Enemies that Celebrate the Holy Supper, and they his best Friends that never do so; because the one crucifies, and hurts him, the other forbears, and shews him favour.</p>
+            <p>
+               <hi>Arg.</hi> 12. If the <hi>Consecrated Bread</hi> be the <hi>Real Body</hi> of Christ, then it arises again after Death, and goes to Heaven after breaking; for so did the true Body of Christ.</p>
+            <pb n="8" facs="tcp:57054:6"/>
+            <p> And as the <hi>Romanists</hi> say of a Church, they do, absolutely deny that Church that is not Intassible.</p>
+            <p>So we may say of the <hi>Breaden Christ,</hi> We do absolutely disown that Body of Christ, that after broken and kill'd, doth not rise again and go to Heaven.</p>
+            <p>
+               <hi>Arg.</hi> 13. If there be no Reason to conclude from the Letter of the Text, That this <hi>Consecrated Bread</hi> is the <hi>Real Body;</hi> then it is not so: because there is no ground from any thing else so to conclude it:</p>
+            <p>But there is no Reason from the Text so to conclude: Therefore this <hi>Consecrated Bread</hi> is not the <hi>Real Body</hi> of Christ.</p>
+            <p>For may we not as well and as reasonably conclude, and say, That all the Saints are <hi>Bread,</hi> and but the entire Body, not Flesh and indivi<g ref="char:EOLhyphen"/>dual persons?</p>
+            <p>Because it is said, 1 <hi>Cor.</hi> 10.17. <hi>We being many, are one Bread, and one Body,</hi> if the Letter must rule against all Reason and Sense and that <hi>Is<g ref="char:EOLhyphen"/>rael</hi> of old were a Garden of <hi>Grape-Trees,</hi> because by God in expresness of Words, called a <hi>Vineyard, Isa.</hi> 5.7. <hi>The Vineyard of the Lord of Hosts is the whole House of Israel,</hi> &amp;c.</p>
+            <p>
+               <hi>Arg.</hi> 14. If the <hi>Consecrated Bread</hi> be substantially a humane body, then some others besides <hi>Papists,</hi> have seen or known, or may see and know it to be so.</p>
+            <p>But none hath or can so see and know:</p>
+            <p>Therefore it is not the Substantial body of Christ. We challenge the whole World here to come forth and convince us.</p>
+            <p>
+               <hi>Arg.</hi> 15. If the <hi>Consecrated Bread</hi> be really the <hi>Body</hi> of Christ, then no fear of Eating unworthily, unless we are corporally blind.</p>
+            <p>Because we may discern the Lords <hi>Body,</hi> which is the worthy Quali<g ref="char:EOLhyphen"/>fication that frees from Judgment, how unprepared soever we are other<g ref="char:EOLhyphen"/>wise, 1 <hi>Cor.</hi> 11.29. <hi>He that eats and drinks unworthily, eats and drinks Judg<g ref="char:EOLhyphen"/>ment to himself, not discerning the Lords Body.</hi>
+            </p>
+            <p>But if the <hi>Bread</hi> be the <hi>Body,</hi> and the Receiver not blind;</p>
+            <p>Every Communicant is secure enough from this; they can discern the Lord's <hi>Body,</hi> what condition soever their Souls are in.</p>
+            <p>But men may eat unworthily, though not corporally blind, and be guilty of the <hi>Body</hi> and <hi>Blood</hi> of the Lord, 1 <hi>Cor.</hi> 11.27.</p>
+            <p>Therefore the <hi>Consecrated Bread</hi> cannot be really the <hi>Body</hi> of Christ.</p>
+            <pb n="9" facs="tcp:57054:6"/>
+            <p>
+               <hi>Arg.</hi> 16. If the <hi>Consecrated Bread</hi> be really the <hi>Body</hi> of Christ, it is either a living or a dead body; if a living body, they do wilfully mur<g ref="char:EOLhyphen"/>der him that know him to be so, and yet are so cruel, as to break him, and most barbarously kill him, by tearing him to pieces, and grinding a sensible Substance between their Jaws,</p>
+            <p>If a dead body, then not worth receiving in order to Eternal Life; because a dead Corpse cannot give a Life that it hath not it self.</p>
+            <p>
+               <hi>Arg.</hi> 17. If the Consecrated Bread be the Real Body of Christ; then it holds some Resemblance and Proportion with the Figure and Type of Christ's <hi>Body, viz.</hi> the <hi>Paschal Lamb.</hi>
+            </p>
+            <p>But the aforesaid Bread holds not a Resemblance and Proportion with this Figure and Type of Christ's <hi>Body:</hi> Therefore it is not the real <hi>Body</hi> of Christ.</p>
+            <p n="1">1. The <hi>Paschal Lamb</hi> was a living thing; so was the Real <hi>Body</hi> of Christ.</p>
+            <p n="2">2. The <hi>Paschal Lamb</hi> was a fleshly Body; so was the Real <hi>Body</hi> of Christ.</p>
+            <p n="3">3. The <hi>Paschal Lamb</hi> had Blood to shed; so had the <hi>Real Body</hi> of Christ.</p>
+            <p n="4">4. The <hi>Paschal Lamb</hi> was wounded and kill'd; so was the <hi>Real Body</hi> of Christ; to which our Bread doth no way correspond: therefore not the Body of Christ.</p>
+            <p>
+               <hi>Arg.</hi> 18. If the <hi>Consecrated Bread</hi> be the Real Body of Christ, then Christ was his own Executioner, laid violent hands on his own Body be<g ref="char:EOLhyphen"/>fore <hi>Judas</hi> betrayed him, or the <hi>Jews</hi> killed him.</p>
+            <p>But Christ did not kill himself before the <hi>Jews</hi> kill'd him; that is evident through the whole Story of the Gospel:</p>
+            <p>Therefore the Bread is not his Body.</p>
+            <p>
+               <hi>Arg.</hi> 19. If the <hi>Consecrated Bread</hi> be the Real <hi>Body</hi> of Christ, then he often suffered since he came into the World.</p>
+            <p>But he hath but once, and not often suffered.</p>
+            <p>Therefore the <hi>Conscerated Bread</hi> cannot be the Real Body of Christ, <hi>Heb.</hi> 7.26, 27. <hi>For such a High Priest became us, who is holy, harmless, undefiled, separate from Sinners, and made higher than the Pleavens, who needeth not dayly to offer up; as the other Priests did; for this he did (once) when be offered up himself.</hi>
+            </p>
+            <p>Heb. 9.28: <hi>So Christ was (once) offered to bear the Sins of many.</hi>
+            </p>
+            <pb n="10" facs="tcp:57054:7"/>
+            <p> Heb. 10.10. <hi>By the which Will we are sanctified by the offering up of the Body of Christ (once) for all.</hi> 1 Pet. 3.18, <hi>For Christ hath (once) suffered for sin, the just for the unjust.</hi> Heb. 9.24, 25, 26, <hi>Christ is not entred into the Holy place made with hands, which are the figures of the true; but into Heaven it self, now to appear in the presence of God for us; nor yet that he should offer himself often, as the High Priests entred into the Holy Place every year with the Blood of others; for then must he often have suffered since the foundation of the World; but now (once) in the end of the World hath he appeared to put away Sin by the Sacrifice of himself,</hi> Once, once, once, and no more doth he suffer.</p>
+            <p>
+               <hi>Arg.</hi> 20. If the <hi>Consecrated Bread</hi> be the <hi>Real Body</hi> of Christ, then Christ is brought under the greatest bondage, misery and affliction of any Creature in the World, by being crucified, broken, torn to pieces, and ground to Mash so often and constantly as the Sacrament is Celebrated; and 'tis strange he should suffer it to be so, when there is no necessity for it, and he hath power in his hand to help it; for <hi>by one Offering he hath compleated the Work,</hi> Heb. 10.14. And <hi>he hath all power in Heaven and Earth, by which Kings reign, and Princes decree Justice,</hi> Mat. 28. Pro. 8.</p>
+            <p>
+               <hi>Arg.</hi> 21. If the <hi>Consecrated Bread</hi> be the <hi>Real Body</hi> of Christ, then Christ hath commanded his Friends and Followers to be more mischiev<g ref="char:EOLhyphen"/>ous and cruel to him, than ever the <hi>Jews</hi> were that hated him and kill'd him; for they did it but once; but these his pretended Friends do it a thousand times over, and pretend he commands them to it: Now that Christ should command to a thing that he hath such infinite reason to be weary of, is not at all congruous to Reason; therefore the <hi>Conse<g ref="char:EOLhyphen"/>crated Bread</hi> cannot be the <hi>Real Body</hi> of Christ.</p>
+            <p>
+               <hi>Arg.</hi> 22. If the <hi>Consecrated Bread</hi> be the <hi>Real Body</hi> of Christ, then those that buy and sell it, to that end that they might kill it and destroy it, are near Kinsmen to <hi>Judas,</hi> the <hi>Jews</hi> and the <hi>High Priests;</hi> for they did no more but buy him and sell him to kill him; and the Taters of this Bread do now no less, when they buy it and sell it to that end, that they might kill and devour it.</p>
+            <p>But the Buyers and Sellers of the Bread for the Lord's Supper, may not be accounted of as <hi>Judas,</hi> the <hi>Jews,</hi> and the <hi>High Priests:</hi>
+            </p>
+            <p>Therefore the <hi>Consecrated Bread</hi> is not the <hi>Real Body</hi> of Christ; for then we must condemn all Christians, both <hi>Papists</hi> and <hi>Protestants,</hi> that do observe the Sacrament of the Lords Supper; and then none can be saved; or if any, 'tis <hi>Jews, Heathens</hi> and <hi>Turks,</hi> that are not so cruel to Christ Jesus, as <hi>Christians</hi> are, to kill him, every week, yea almost every day.</p>
+            <p>
+               <hi>Arg.</hi> 23. If the Doctrine of <hi>Transubstantiation</hi> be true, it renders
+<pb n="11" facs="tcp:57054:7"/>the offering up of the Body of Christ upon the Cross at <hi>Jerusalem,</hi> insuf<g ref="char:EOLhyphen"/>ficient; for if that did the Work in point of publick Sacrifice and A<g ref="char:EOLhyphen"/>tonement, no need to have so many Bodies new made, and offered up again every Week, almost every Day, or as often as the <hi>Papists</hi> please to make him, and kill him. If the Work was well done, then what need of another killing?</p>
+            <p>
+               <hi>Arg.</hi> 24. It renders the most great and good God a hard Master, and very rigorous, that nothing else should please him, but so great an Of<g ref="char:EOLhyphen"/>fering as the Body of Christ; and that this too must be broken and abu<g ref="char:EOLhyphen"/>sed so often, so long, and so constantly. And further, it argues God to have little love to the Pleasure, Ease, or Honour of his Blessed Son, in that he should subject him to such horrid, most horrid Cruelties, to so barbarous Usage and Indignities, as to be made, as often as the Priest pleases, and to be torn to pieces as often as the Debauchery of the Sons of <hi>Belial</hi> shall occasion or require it; for certainly Christ can never dwell happily. In Heaven since his Ascension, if they do so grosly abuse his Body here on Earth, even his real Body; and if when <hi>Paul</hi> perse<g ref="char:EOLhyphen"/>cuted the Church, he had cause to cry out; how much more when Priests trample upon his Scull, tear and crush his Real Body all to pieces? But such base Reflections as these, are not at all deserved by the Divine Goodness, who hath plac'd Christ in the highest Dignity that Heaven can afford him; there to abide at his Right hand, <hi>till all his Foes be made his Foot-stool.</hi> Read <hi>Heb.</hi> 10. from 4. to 14. at your leisure. <hi>Vers.</hi> 12, 13. <hi>But this man after he had offered one Sacrifice for Sin for ever, sate down at the right hand of God, from henceforth expecting till his Enemies be made his Footstool.</hi> Vers. 14. <hi>For by one Offering he hath for ever perfected them that are sanctified.</hi> And as Christ says, <hi>He goes to the Father, and we shall see him no more,</hi> John 16.10. Which seems utterly inconsistent with <hi>Transubstantion;</hi> for if the <hi>Bread</hi> be his <hi>Real Body,</hi> then is he brought down from Heaven every time the Sacrament is Celebrated, or else he hath more <hi>Real Bodies</hi> than one.</p>
+            <p>The first is a great trouble, and diminution to his Glory.</p>
+            <p>The last makes him no better than a Monster.</p>
+            <p>The Conclusion then is, That Christ lives for ever in pleasure at God's Right Hand in Heaven, and our Work and Business is to remem<g ref="char:EOLhyphen"/>ber what he did for us before he was exalted thither: Which brings us to the Design and Usefulness of his Holy Supper; which, for Brevity sake, we shall give you in these few follo<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Particulars.</p>
+            <p n="1">1. To discover the Nature of Sin that cost Christ so dear; which is set forth in Scripture by these Four Metaphors:</p>
+            <p n="1">
+               <pb n="12" facs="tcp:57054:8"/> 1. It is called the <hi>Plague,</hi> 1 <hi>Kings</hi> 8.38.</p>
+            <p n="2">2. It is called <hi>Putrified Sores, Isa.</hi> 1.68.</p>
+            <p n="3">3. It is compared to <hi>Scarlet Dye, Isa.</hi> 1.18.</p>
+            <p n="4">4. To <hi>Fleshly Spots</hi> that have corrupted themselves. <hi>Their Spot is not the Spot of his Children,</hi> Deut. 32.5. And there is nothing could cure this Disease, heal and cleanse these Sores, dissolve this Scarlet Die, fetch out these fleshly Spots, but the Blood of Jesus Christ, <hi>Heb.</hi> 9.14. <hi>How much more shall the Blood of Christ purge your Conscience from dead works?</hi> Heb. 13.12. <hi>Jesus, that be might sanctifie tha People with his own blood, suffered without the Gate.</hi> 1 Pet. 1.19. <hi>Redeemed not with corrupti<g ref="char:EOLhyphen"/>ble things, as Silver and Gold, but with the precious blood of Christ.</hi> 1 John 1.7. <hi>The blood of Jesus Christ his Son cleanseth from all sin,</hi> Rev. 1.5. <hi>Washt us from our Sins in his own blood.</hi> Rev. 7.14. <hi>They came out of great Tribulation, and have washt their Robes, and made them white in the blood of the Lamb.</hi>
+            </p>
+            <p>This we are put in mind of by the Sacrament of the Lords Supper, 1 <hi>Cor.</hi> 11.25. <hi>This Cup is the New Testament in my Blood, this do in re<g ref="char:EOLhyphen"/>membrance of me.</hi>
+            </p>
+            <p n="2">2. The Sacrament of the Lords Supper puts us in mind of the great provocation that was given to Almighty God, so as no Sacri<g ref="char:EOLhyphen"/>fice would appease, but the Body of his only beloved Son, 1 <hi>Cor.</hi> 5.7. <hi>Christ our Passover was sacrificed for us;</hi> the body and blood of Beasts would not do, <hi>Heb.</hi> 10.4. <hi>For it is not possible that the blood of Bulls and Goats should take away Sin.</hi>
+            </p>
+            <p n="3">3. It puts us in mind of the greatness of the Fathers Love and good Will, that he should bruise and give up his own Son to death for us, <hi>Luke</hi> 2.14. <hi>Good will to men.</hi> John. 3.16. <hi>He so loved the World, that he gave his only begotten Son.</hi> Rom. 8.32. <hi>Spared not his own Son, but deli<g ref="char:EOLhyphen"/>vered him up for us all.</hi> 1 John 4.9, 10. <hi>In this was manifest the Love of God towards us, that he sent his only begotten Son, that we might live, and to be a Propitiation for our Sins.</hi>
+            </p>
+            <p n="4">4. It puts us in mind of the greatness of the Obedience to the Fa<g ref="char:EOLhyphen"/>ther's Will, and Affections to the Souls of men; that when nothing else would do, he comes himself, <hi>Heb.</hi> 10.8, 9. <hi>Sacrifice and Offerings thou wouldst not; then said he, Lo I come.</hi> John 10.15. <hi>I lay down my Life for my Sheep.</hi> Rom. 5.6. <hi>When without strength, in due time
+<pb n="13" facs="tcp:57054:8"/>Christ died for the ungodly.</hi> This is great Obedience, and great Love indeed.</p>
+            <p n="5">5. It puts us in mind of that great Enmity that Sin fill'd the World with, and the Influence it had upon the Minds of men (when left to themselves) they are cruel against the best of men, <hi>Acts</hi> 13.28. <hi>Though they found no cause of Death in him,</hi> yet desire <hi>Pilate</hi> that he might be Crucified; and so they Crucified the <hi>Lord of Glory,</hi> 1 Cor. 2.8.</p>
+            <p n="6">6. The Design of the Lord's Supper is to engage to Religion in good earnest: And that appears in two things.</p>
+            <p n="1">1. It requires a strict Self-Examination, 1 <hi>Cor.</hi> 11.28. <hi>Let a man ex<g ref="char:EOLhyphen"/>amine himself, and so let him eat, of that Bread, and drink of that Cup.</hi>
+            </p>
+            <p n="2">2. It requires due Preparation before Reception: That is implied in Examination: And this due Preparation consists in these four Things.</p>
+            <p n="1">1. An ingenuous Confession of those Sins which we find out upon Search and Examination.</p>
+            <p n="2">2. A godly Sorrow for the same; manifested by putting away the filth of the Flesh.</p>
+            <p n="3">3. A Forgiving others that have offended us, or that we have had a quarrel against. <hi>If you forgive not others,</hi> &amp;c. <hi>Leave thy Gift at the Al<g ref="char:EOLhyphen"/>tar. Lay aside all Malice.</hi> We are not to eat with the Leavened Bread of Malice and Wickedness.</p>
+            <p n="4">4. Faith in the Death and Blood-shedding of Jesus Christ, without which we cannot discern the Lords Body; and then we bring Guilt up<g ref="char:EOLhyphen"/>on our selves, 1 <hi>Cor.</hi> 11.26. Even the Guilt of the Body and Blood of the Lord.</p>
+            <p n="7">7. The Design of the Lord's Supper is to be a Witness to the Works of Christ, that their Remembrance may be kept up in the World, 1 <hi>Cor.</hi> 11.26. <hi>For as oft as ye eat this Bread, and drink this Cup, ye shew forth the Lords Death till he comes.</hi>
+            </p>
+            <p>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
